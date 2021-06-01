@@ -32,18 +32,21 @@ Para mas información, el script genera(o actualiza si ya existe) el archivo "Ex
 ## Instalación
 
 Dentro de la consola escribir el siguiente comando:
-```python
+
+```bash
+git clone https://github.com/Gaston87/ml-challenge.git
+cd ml-challenge
 pip install -r requisitos.txt
 ```
 
-## Comandos script
+## Comandos Script
 
 Help:
-```python
+```bash
 py script.py -h
 ```
 
 Ejecución:
-```python
+```bash
 py script.py -i input.csv
 ```
