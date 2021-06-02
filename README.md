@@ -21,7 +21,7 @@ MLB, 22222, SampleNickn2, MLB22221, "Sample title 2", MLB2222, "Herramientas", R
 ## Solución
 
 Se creó un script Python el cual recibe un archivo input en formato CSV para listar los site_id y seller_id requeridos. El script genera un archivo con la siguiente nomenclatura "log DD MM AAAA - HH MM.csv"(Ejemplo 31 05 2021 - 05 30.csv). 
-Para mas información, el script genera(o actualiza si ya existe) el archivo "ExecutionLog.txt" en el cual se muestra la secuencia de ejecución del script desde que es iniciado hasta su finalización, indicando fecha y hora de cada registro y errores si ocurrieran dentro de la ejecución.
+Para mas información, el script genera (o actualiza si ya existe) el archivo "ExecutionLog.txt" en el cual se muestra la secuencia de ejecución del script desde que es iniciado hasta su finalización, indicando fecha y hora de cada registro y errores si ocurrieran dentro de la ejecución.
 
 ## Prerequisitos
 
